@@ -7,6 +7,7 @@ Features
 The game has four colored buttons, each with a unique note.
 
 <img width="891" alt="image" src="https://github.com/user-attachments/assets/99ca5dcf-7f22-46f5-b095-c39cd0f6dbae">
+<br> <br>
 
 <img width="918" alt="image" src="https://github.com/user-attachments/assets/a38258af-1a1a-4c1c-b8bb-8cc179483bf9">
 
